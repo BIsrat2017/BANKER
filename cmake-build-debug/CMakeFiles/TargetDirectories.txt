@@ -1,0 +1,3 @@
+/Users/bisratasefaw/Desktop/ACCADAMICS /css 342/HW#6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/bisratasefaw/Desktop/ACCADAMICS /css 342/HW#6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bisratasefaw/Desktop/ACCADAMICS /css 342/HW#6/cmake-build-debug/CMakeFiles/BANKER.dir
